@@ -5,3 +5,5 @@ Simulations can be run by simply downloading all code, adding to the search path
 Best fits for parameters are described in the paper. Sampling data to convert 3D acini to 2D measurements are found in the supplemental data of the paper and Figure 2E.
 
 For any questions, please contact t.vandenbosch@amsterdamumc.nl
+
+This code has been published at https://doi.org/10.5281/zenodo.5017711
